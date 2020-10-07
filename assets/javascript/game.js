@@ -41,5 +41,5 @@ resetButton.addEventListener("click", function () {
   teamTwonumShots.innerHTML = 0;
   reset += 1;
   resetNum.innerHTML = reset;
-  location.reload();
+  // location.reload();
 });
